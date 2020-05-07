@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Refer the python script.py in /opt/MyScripts/
 
 echo "[+]Running Gobuster automation script..."
 if [ ! -d "gobuster" ]; then
