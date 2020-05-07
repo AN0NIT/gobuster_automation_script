@@ -1,6 +1,6 @@
 ## Gobuster Automation Script
 
-## Usage ./gobuster_script.sh IP OS
+## Usage ./gobuster_script.sh < IP > < OS >
 ## The choice for OS is "windows" and "linux"
 ## First it checks whether if there is a gobuster directory, else it will create one.
 ## Then it does the gobuster scan on the specified IP
