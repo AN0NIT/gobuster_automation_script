@@ -13,5 +13,4 @@
 ## This script has a lot of flaws which I am trying to fix.
 ## If you find any Bug/Flaw please feel free to modify the code, and let me know
 
-## testing line
 ## Thank you for viewing my code!!
